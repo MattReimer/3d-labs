@@ -1,6 +1,6 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
-name: "My Workflow"
-description: "A collection of tricks to work faster."
+name: "Life Out the Window Labs"
+description: "Where I store and version my 3D printer files"
 
 exclude:
   - Gemfile
@@ -22,5 +22,5 @@ markdown_ext:  markdown,mkd,mkdn,md
 host:        127.0.0.1
 port:        4000
 baseurl:     /
-url:         http://MattReimer.github.io/my-workflow
+url:         http://mattreimer.github.io/3d-labs
 lsi:         false
